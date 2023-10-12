@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MultiHuman
-- 👀 I’m interested in killing JJUJELLY
-- 🌱 I’m currently learning how to kill JJUJELLY
-- 💞️ I’m looking to collaborate on NO.
-- 📫 How to reach me hooolllish@gmail.com
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mymasterpark2)](https://solved.ac/mymasterpark2)
 
-<!---
-MultiHuman/MultiHuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multihuman&layout=compact&theme=dark)
